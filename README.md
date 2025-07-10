@@ -5,7 +5,7 @@
 - 💙 I’m currently working on **Flutter**
 - 🌱 I’m currently learning **Frontend Development**
 - 💬 Ask me anything about **Flutter, Dart, or UI building**
-- 📫 How to reach me: [fasial.manan6@gmail.com](mailto:fasial.manan6@gmail.com)
+- 📫 How to reach me: [faisal.manan6@gmail.com](mailto:faisal.manan6@gmail.com)
 
 ---
 
