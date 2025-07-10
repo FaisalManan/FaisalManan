@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://discord.com/users/1174741745184014370">
-  <img src="https://img.shields.io/badge/Discord-faisalmanan.-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  <img src="https://img.shields.io/badge/Discord?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
 </a>
 </div>
 
