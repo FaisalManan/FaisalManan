@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Faisal Manan</h1>
 
 - 💙 I’m currently working on **Flutter**
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **Frontend Development**
 - 💬 Ask me anything about **Flutter, Dart, or UI building**
 - 📫 How to reach me: [fasial.manan6@gmail.com](mailto:fasial.manan6@gmail.com)
 
@@ -11,7 +11,7 @@
 
 ### 🌐 Connect with me:
 
-<!-- Add your real links later below -->
+
 <div id="badges">
   <a href="https://github.com/FaisalManan">
     <img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Badge"/>
@@ -27,7 +27,7 @@
   </a>
 </div>
 
-> 📌 Replace `#youtube-link`, `#instagram-link`, and `#facebook-link` with your real profiles when you're ready!
+> 
 
 ---
 
