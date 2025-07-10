@@ -25,6 +25,7 @@
   <a href="https://www.linkedin.com/in/faisal-manan-94775a29b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <img src="https://img.shields.io/badge/Discord-faisalmanan.-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
 </div>
 
 > 
