@@ -52,7 +52,6 @@ Building mobile apps with Flutter and creating responsive websites with modern w
 
 ### 🛠 Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma)](https://skillicons.dev)
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,html,css,js,bootstrap,react,nodejs,express,mongodb,mysql,git,github,postman,figma,vscode"/>
