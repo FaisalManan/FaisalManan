@@ -2,10 +2,26 @@
 
 <h1 align="center">Hi 👋, I'm Faisal Manan</h1>
 
-- 💙 I’m currently working on **Flutter**
-- 🌱 I’m currently learning **Frontend Development**
-- 💬 Ask me anything about **Flutter, Dart, or UI building**
-- 📫 How to reach me: [faisal.manan6@gmail.com](mailto:faisal.manan6@gmail.com)
+
+<h3 align="center">
+Flutter Developer | Frontend Developer | UI Enthusiast
+</h3>
+
+<p align="center">
+Building mobile apps with Flutter and creating responsive websites with modern web technologies.
+</p>
+
+---
+
+### 🚀 About Me
+
+- 💙 Currently working on **Flutter Development**
+- 🌱 Currently learning **Frontend & Full Stack Web Development**
+- 💻 Building websites using **HTML, CSS, JavaScript**
+- 🎨 Interested in **UI/UX Design and Responsive Interfaces**
+- 🔥 Exploring **React, Node.js, and modern web technologies**
+- 💬 Ask me about **Flutter, Dart, HTML, CSS, JavaScript, and UI Building**
+- 📫 Reach me at: **faisal.manan6@gmail.com**
 
 ---
 
@@ -37,7 +53,11 @@
 ### 🛠 Languages and Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma)](https://skillicons.dev)
+<p align="center">
 
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,html,css,js,bootstrap,react,nodejs,express,mongodb,mysql,git,github,postman,figma,vscode"/>
+
+</p>
 ---
 
 ### 📊 GitHub Stats
